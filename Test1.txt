@@ -2,4 +2,5 @@ Add1 Change1 Branch1
 Add2
 Add3
 Add2
+Master
 Branch1
